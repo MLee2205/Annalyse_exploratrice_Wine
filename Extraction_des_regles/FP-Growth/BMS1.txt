@@ -1,0 +1,15 @@
+laptop -1 souris -1 clavier -1 -2
+souris -1 tapis -1 -2  
+clavier -1 écran -1 laptop -1 -2
+souris -1 clavier -1 -2
+laptop -1 sac -1 -2
+écran -1 souris -1 -2
+laptop -1 clavier -1 souris -1 écran -1 -2
+souris -1 -2
+clavier -1 tapis -1 -2
+laptop -1 sac -1 souris -1 -2
+écran -1 clavier -1 -2
+laptop -1 -2
+souris -1 clavier -1 tapis -1 -2
+laptop -1 écran -1 -2
+clavier -1 -2

@@ -1,0 +1,6 @@
+1: clavier
+2: laptop
+3: sac
+4: souris
+5: tapis
+6: écran
